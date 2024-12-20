@@ -1,0 +1,5 @@
+// Membaca setiap baris dari file input dan memproses operasinya
+    while (fscanf(inputFile, "%f%c", &suhu, &satuan) != EOF) {
+
+        
+    }

@@ -1,0 +1,1000 @@
+4466.0000 C = 8070.7998 F
+3206.0000 C = 5802.7998 F
+3040.0000 C = 5504.0000 F
+Input tidak valid: 305.0000y
+772.0000 F = 411.1111 C
+Input tidak valid: 2256.0000x
+Input tidak valid: 107.0000z
+Input tidak valid: 3867.0000y
+Input tidak valid: 4535.0000x
+Input tidak valid: 1752.0000y
+Input tidak valid: 2672.0000p
+Input tidak valid: 2690.0000y
+Input tidak valid: 4476.0000m
+Input tidak valid: 4073.0000m
+Input tidak valid: 59.0000y
+Input tidak valid: 680.0000m
+4892.0000 C = 8837.5996 F
+Input tidak valid: 1011.0000z
+3643.0000 F = 2006.1111 C
+Input tidak valid: 1253.0000y
+Input tidak valid: 766.0000x
+Input tidak valid: 2605.0000x
+1684.0000 C = 3063.2000 F
+Input tidak valid: 3748.0000y
+Input tidak valid: 3506.0000p
+Input tidak valid: 3684.0000x
+Input tidak valid: 809.0000z
+3786.0000 F = 2085.5557 C
+Input tidak valid: 3072.0000m
+2887.0000 C = 5228.6001 F
+2138.0000 C = 3880.3999 F
+1536.0000 F = 835.5555 C
+1826.0000 C = 3318.8000 F
+Input tidak valid: 3067.0000m
+Input tidak valid: 2780.0000y
+Input tidak valid: 3844.0000p
+4335.0000 C = 7835.0000 F
+4744.0000 F = 2617.7778 C
+Input tidak valid: 1372.0000y
+Input tidak valid: 3580.0000x
+Input tidak valid: 4431.0000y
+Input tidak valid: 534.0000x
+2876.0000 C = 5208.7998 F
+966.0000 C = 1770.8000 F
+Input tidak valid: 2068.0000y
+Input tidak valid: 4490.0000x
+Input tidak valid: 429.0000x
+Input tidak valid: 3664.0000m
+Input tidak valid: 2786.0000y
+971.0000 C = 1779.8000 F
+Input tidak valid: 2561.0000m
+Input tidak valid: 4362.0000m
+Input tidak valid: 4535.0000p
+Input tidak valid: 2543.0000m
+Input tidak valid: 4437.0000z
+Input tidak valid: 1434.0000p
+Input tidak valid: 4730.0000m
+Input tidak valid: 2115.0000x
+Input tidak valid: 2425.0000y
+Input tidak valid: 3758.0000p
+1738.0000 F = 947.7778 C
+Input tidak valid: 1587.0000p
+Input tidak valid: 2121.0000y
+2085.0000 F = 1140.5555 C
+Input tidak valid: 3940.0000x
+Input tidak valid: 1353.0000z
+Input tidak valid: 1597.0000p
+1797.0000 C = 3266.6001 F
+Input tidak valid: 2823.0000z
+Input tidak valid: 872.0000p
+555.0000 F = 290.5555 C
+Input tidak valid: 2809.0000z
+Input tidak valid: 1487.0000p
+Input tidak valid: 199.0000p
+Input tidak valid: 3869.0000m
+3139.0000 C = 5682.2002 F
+4086.0000 C = 7386.7998 F
+Input tidak valid: 4252.0000x
+Input tidak valid: 4201.0000y
+Input tidak valid: 320.0000y
+Input tidak valid: 1676.0000p
+Input tidak valid: 2703.0000z
+Input tidak valid: 444.0000z
+4090.0000 C = 7394.0000 F
+Input tidak valid: 2556.0000p
+Input tidak valid: 789.0000x
+Input tidak valid: 212.0000m
+Input tidak valid: 1401.0000m
+2866.0000 F = 1574.4445 C
+2510.0000 C = 4550.0000 F
+Input tidak valid: 961.0000p
+1794.0000 C = 3261.2000 F
+Input tidak valid: 3716.0000m
+440.0000 F = 226.6667 C
+Input tidak valid: 4778.0000m
+Input tidak valid: 3410.0000y
+Input tidak valid: 3407.0000x
+184.0000 C = 363.2000 F
+3930.0000 F = 2165.5557 C
+Input tidak valid: 926.0000p
+Input tidak valid: 3885.0000p
+3824.0000 F = 2106.6667 C
+Input tidak valid: 1689.0000p
+Input tidak valid: 4961.0000p
+Input tidak valid: 2234.0000x
+Input tidak valid: 532.0000m
+12.0000 F = -11.1111 C
+47.0000 C = 116.6000 F
+Input tidak valid: 337.0000m
+Input tidak valid: 464.0000p
+Input tidak valid: 4911.0000y
+Input tidak valid: 2018.0000y
+4141.0000 C = 7485.7998 F
+1909.0000 F = 1042.7778 C
+Input tidak valid: 2767.0000y
+Input tidak valid: 222.0000x
+Input tidak valid: 256.0000z
+Input tidak valid: 362.0000z
+1617.0000 F = 880.5555 C
+2371.0000 C = 4299.7998 F
+Input tidak valid: 137.0000y
+Input tidak valid: 2401.0000x
+Input tidak valid: 3734.0000m
+Input tidak valid: 72.0000m
+4748.0000 F = 2620.0000 C
+Input tidak valid: 3292.0000p
+Input tidak valid: 540.0000z
+Input tidak valid: 2931.0000m
+Input tidak valid: 2896.0000y
+Input tidak valid: 706.0000m
+Input tidak valid: 1933.0000z
+Input tidak valid: 3383.0000y
+882.0000 F = 472.2222 C
+Input tidak valid: 177.0000y
+Input tidak valid: 1591.0000y
+Input tidak valid: 3480.0000z
+Input tidak valid: 3460.0000z
+1767.0000 F = 963.8889 C
+Input tidak valid: 1076.0000m
+Input tidak valid: 2827.0000p
+Input tidak valid: 3577.0000x
+Input tidak valid: 3680.0000p
+4798.0000 C = 8668.4004 F
+Input tidak valid: 1949.0000p
+Input tidak valid: 4548.0000m
+Input tidak valid: 1013.0000y
+Input tidak valid: 4226.0000y
+Input tidak valid: 107.0000x
+4458.0000 C = 8056.3999 F
+Input tidak valid: 132.0000x
+Input tidak valid: 4219.0000p
+Input tidak valid: 19.0000m
+Input tidak valid: 217.0000y
+Input tidak valid: 1227.0000m
+Input tidak valid: 4994.0000z
+Input tidak valid: 2718.0000y
+1220.0000 F = 660.0000 C
+Input tidak valid: 4644.0000m
+908.0000 C = 1666.4000 F
+Input tidak valid: 3178.0000z
+Input tidak valid: 4955.0000x
+Input tidak valid: 1483.0000m
+Input tidak valid: 1616.0000x
+Input tidak valid: 4528.0000z
+4669.0000 F = 2576.1111 C
+415.0000 C = 779.0000 F
+3319.0000 F = 1826.1111 C
+Input tidak valid: 370.0000x
+Input tidak valid: 21.0000x
+Input tidak valid: 3184.0000m
+Input tidak valid: 628.0000m
+Input tidak valid: 492.0000x
+Input tidak valid: 354.0000z
+Input tidak valid: 1575.0000z
+Input tidak valid: 1568.0000z
+Input tidak valid: 2152.0000z
+Input tidak valid: 334.0000y
+Input tidak valid: 718.0000y
+Input tidak valid: 3432.0000p
+44.0000 F = 6.6667 C
+Input tidak valid: 4342.0000x
+3761.0000 C = 6801.7998 F
+Input tidak valid: 4949.0000m
+Input tidak valid: 416.0000x
+4802.0000 F = 2650.0000 C
+Input tidak valid: 4125.0000p
+Input tidak valid: 4414.0000x
+Input tidak valid: 1516.0000x
+3503.0000 C = 6337.3999 F
+Input tidak valid: 2761.0000y
+Input tidak valid: 2412.0000x
+Input tidak valid: 1890.0000y
+Input tidak valid: 2873.0000z
+Input tidak valid: 4989.0000m
+Input tidak valid: 4937.0000y
+3136.0000 C = 5676.7998 F
+Input tidak valid: 2091.0000x
+3333.0000 C = 6031.3999 F
+4694.0000 C = 8481.2002 F
+Input tidak valid: 3947.0000m
+Input tidak valid: 3151.0000p
+1343.0000 C = 2449.3999 F
+Input tidak valid: 3024.0000x
+Input tidak valid: 1753.0000z
+Input tidak valid: 617.0000m
+Input tidak valid: 2580.0000y
+Input tidak valid: 3861.0000p
+Input tidak valid: 1142.0000y
+Input tidak valid: 470.0000m
+Input tidak valid: 1631.0000m
+Input tidak valid: 3228.0000z
+Input tidak valid: 4074.0000m
+2769.0000 C = 5016.2002 F
+Input tidak valid: 4071.0000p
+2371.0000 C = 4299.7998 F
+Input tidak valid: 2854.0000x
+Input tidak valid: 4045.0000m
+5000.0000 F = 2760.0000 C
+491.0000 C = 915.8000 F
+4331.0000 F = 2388.3333 C
+4485.0000 C = 8105.0000 F
+Input tidak valid: 4669.0000z
+Input tidak valid: 990.0000p
+Input tidak valid: 3814.0000x
+Input tidak valid: 718.0000p
+Input tidak valid: 1341.0000x
+3755.0000 C = 6791.0000 F
+1877.0000 C = 3410.6001 F
+428.0000 F = 220.0000 C
+Input tidak valid: 2631.0000p
+Input tidak valid: 1267.0000z
+Input tidak valid: 3771.0000m
+3243.0000 C = 5869.3999 F
+3219.0000 C = 5826.2002 F
+Input tidak valid: 4173.0000z
+3853.0000 C = 6967.3999 F
+Input tidak valid: 2687.0000z
+Input tidak valid: 4450.0000z
+Input tidak valid: 2542.0000x
+Input tidak valid: 3184.0000x
+Input tidak valid: 3369.0000m
+Input tidak valid: 796.0000z
+Input tidak valid: 876.0000p
+Input tidak valid: 2022.0000z
+Input tidak valid: 905.0000m
+Input tidak valid: 874.0000m
+Input tidak valid: 2231.0000p
+Input tidak valid: 1097.0000y
+2921.0000 C = 5289.7998 F
+2878.0000 F = 1581.1111 C
+Input tidak valid: 1081.0000z
+Input tidak valid: 4451.0000z
+3505.0000 C = 6341.0000 F
+1110.0000 C = 2030.0000 F
+Input tidak valid: 3344.0000z
+2541.0000 C = 4605.7998 F
+2549.0000 C = 4620.2002 F
+2842.0000 F = 1561.1111 C
+Input tidak valid: 1027.0000m
+756.0000 C = 1392.8000 F
+Input tidak valid: 1612.0000z
+Input tidak valid: 2048.0000z
+Input tidak valid: 3596.0000m
+Input tidak valid: 3036.0000m
+Input tidak valid: 1253.0000m
+Input tidak valid: 1390.0000y
+887.0000 F = 475.0000 C
+3624.0000 F = 1995.5555 C
+4904.0000 C = 8859.2002 F
+4450.0000 C = 8042.0000 F
+Input tidak valid: 2533.0000m
+Input tidak valid: 1620.0000x
+Input tidak valid: 2627.0000m
+2858.0000 C = 5176.3999 F
+Input tidak valid: 580.0000z
+4608.0000 C = 8326.4004 F
+Input tidak valid: 1248.0000y
+Input tidak valid: 1424.0000z
+4204.0000 C = 7599.2002 F
+Input tidak valid: 1208.0000y
+Input tidak valid: 305.0000z
+3142.0000 C = 5687.6001 F
+1364.0000 F = 740.0000 C
+Input tidak valid: 4512.0000z
+Input tidak valid: 1697.0000x
+Input tidak valid: 4085.0000p
+Input tidak valid: 3896.0000x
+Input tidak valid: 3611.0000x
+3508.0000 F = 1931.1111 C
+4884.0000 F = 2695.5557 C
+Input tidak valid: 2132.0000p
+Input tidak valid: 667.0000y
+Input tidak valid: 3958.0000x
+Input tidak valid: 2411.0000y
+Input tidak valid: 1310.0000x
+Input tidak valid: 4028.0000y
+Input tidak valid: 469.0000z
+Input tidak valid: 891.0000z
+Input tidak valid: 1239.0000y
+Input tidak valid: 4781.0000x
+Input tidak valid: 1130.0000p
+3893.0000 F = 2145.0000 C
+Input tidak valid: 4164.0000p
+Input tidak valid: 2239.0000z
+Input tidak valid: 748.0000m
+Input tidak valid: 749.0000m
+Input tidak valid: 788.0000z
+Input tidak valid: 729.0000p
+Input tidak valid: 4383.0000z
+Input tidak valid: 2905.0000y
+Input tidak valid: 2799.0000z
+Input tidak valid: 1076.0000p
+Input tidak valid: 1077.0000y
+Input tidak valid: 3574.0000x
+Input tidak valid: 2641.0000z
+Input tidak valid: 236.0000p
+141.0000 C = 285.8000 F
+Input tidak valid: 2761.0000x
+Input tidak valid: 1389.0000m
+Input tidak valid: 4251.0000y
+460.0000 F = 237.7778 C
+88.0000 F = 31.1111 C
+Input tidak valid: 306.0000y
+Input tidak valid: 2669.0000z
+3453.0000 C = 6247.3999 F
+Input tidak valid: 1167.0000x
+2605.0000 C = 4721.0000 F
+3240.0000 C = 5864.0000 F
+974.0000 C = 1785.2000 F
+Input tidak valid: 884.0000z
+Input tidak valid: 315.0000x
+Input tidak valid: 2667.0000x
+Input tidak valid: 171.0000z
+Input tidak valid: 3771.0000x
+Input tidak valid: 4204.0000y
+2752.0000 C = 4985.6001 F
+Input tidak valid: 3927.0000y
+Input tidak valid: 1668.0000z
+Input tidak valid: 3213.0000p
+Input tidak valid: 3859.0000m
+2021.0000 F = 1105.0000 C
+1329.0000 C = 2424.2000 F
+1133.0000 C = 2071.3999 F
+Input tidak valid: 3037.0000m
+Input tidak valid: 651.0000x
+3493.0000 F = 1922.7778 C
+309.0000 F = 153.8889 C
+325.0000 C = 617.0000 F
+512.0000 C = 953.6000 F
+Input tidak valid: 20.0000y
+Input tidak valid: 3631.0000m
+Input tidak valid: 3031.0000y
+Input tidak valid: 2559.0000x
+Input tidak valid: 2334.0000z
+1361.0000 F = 738.3333 C
+2078.0000 C = 3772.3999 F
+3552.0000 C = 6425.6001 F
+Input tidak valid: 4008.0000y
+4052.0000 F = 2233.3333 C
+3807.0000 F = 2097.2222 C
+Input tidak valid: 2729.0000x
+Input tidak valid: 490.0000y
+3177.0000 C = 5750.6001 F
+Input tidak valid: 3396.0000m
+Input tidak valid: 3769.0000p
+1821.0000 F = 993.8889 C
+4141.0000 F = 2282.7778 C
+Input tidak valid: 240.0000x
+Input tidak valid: 3298.0000x
+1353.0000 F = 733.8889 C
+Input tidak valid: 2351.0000z
+Input tidak valid: 1686.0000m
+Input tidak valid: 285.0000p
+Input tidak valid: 4568.0000z
+3060.0000 C = 5540.0000 F
+875.0000 C = 1607.0000 F
+Input tidak valid: 3082.0000z
+Input tidak valid: 4521.0000p
+2494.0000 F = 1367.7778 C
+1393.0000 F = 756.1111 C
+Input tidak valid: 3470.0000z
+Input tidak valid: 4345.0000x
+Input tidak valid: 4832.0000z
+Input tidak valid: 1506.0000m
+3647.0000 C = 6596.6001 F
+3802.0000 F = 2094.4443 C
+1992.0000 F = 1088.8889 C
+Input tidak valid: 4220.0000m
+Input tidak valid: 3454.0000x
+2596.0000 C = 4704.7998 F
+Input tidak valid: 3473.0000m
+Input tidak valid: 2481.0000x
+Input tidak valid: 4227.0000z
+Input tidak valid: 4960.0000m
+Input tidak valid: 4330.0000z
+Input tidak valid: 1947.0000x
+3467.0000 F = 1908.3334 C
+Input tidak valid: 3983.0000y
+Input tidak valid: 3580.0000y
+Input tidak valid: 4739.0000z
+2918.0000 C = 5284.3999 F
+Input tidak valid: 3926.0000m
+Input tidak valid: 1525.0000x
+1909.0000 F = 1042.7778 C
+3786.0000 F = 2085.5557 C
+761.0000 C = 1401.8000 F
+Input tidak valid: 1837.0000x
+Input tidak valid: 141.0000z
+Input tidak valid: 2090.0000x
+2245.0000 F = 1229.4445 C
+2116.0000 C = 3840.8000 F
+Input tidak valid: 3540.0000x
+Input tidak valid: 2549.0000z
+Input tidak valid: 3446.0000z
+Input tidak valid: 3422.0000y
+Input tidak valid: 4826.0000x
+Input tidak valid: 1888.0000y
+Input tidak valid: 2973.0000m
+410.0000 F = 210.0000 C
+Input tidak valid: 4879.0000m
+4914.0000 F = 2712.2222 C
+Input tidak valid: 2077.0000m
+Input tidak valid: 3562.0000x
+3270.0000 F = 1798.8889 C
+Input tidak valid: 3457.0000z
+2266.0000 C = 4110.7998 F
+2092.0000 F = 1144.4445 C
+1756.0000 F = 957.7778 C
+2651.0000 F = 1455.0000 C
+Input tidak valid: 3122.0000m
+Input tidak valid: 4520.0000z
+107.0000 C = 224.6000 F
+Input tidak valid: 1733.0000m
+Input tidak valid: 348.0000y
+Input tidak valid: 638.0000z
+Input tidak valid: 4537.0000x
+Input tidak valid: 777.0000y
+Input tidak valid: 3403.0000x
+Input tidak valid: 1484.0000z
+Input tidak valid: 970.0000z
+Input tidak valid: 3574.0000z
+3066.0000 F = 1685.5555 C
+Input tidak valid: 2651.0000x
+Input tidak valid: 206.0000p
+Input tidak valid: 1401.0000m
+Input tidak valid: 1011.0000y
+35.0000 C = 95.0000 F
+Input tidak valid: 2852.0000y
+Input tidak valid: 3174.0000x
+Input tidak valid: 2359.0000z
+Input tidak valid: 4698.0000p
+3023.0000 F = 1661.6666 C
+Input tidak valid: 428.0000x
+Input tidak valid: 3459.0000x
+Input tidak valid: 2850.0000x
+897.0000 C = 1646.6000 F
+Input tidak valid: 922.0000x
+Input tidak valid: 69.0000x
+Input tidak valid: 2120.0000m
+Input tidak valid: 328.0000z
+2746.0000 F = 1507.7778 C
+Input tidak valid: 1802.0000m
+Input tidak valid: 2120.0000y
+3263.0000 C = 5905.3999 F
+Input tidak valid: 176.0000z
+Input tidak valid: 1413.0000p
+Input tidak valid: 1141.0000p
+Input tidak valid: 3201.0000p
+Input tidak valid: 3893.0000p
+495.0000 F = 257.2222 C
+Input tidak valid: 2222.0000p
+Input tidak valid: 2344.0000m
+Input tidak valid: 2314.0000m
+Input tidak valid: 4514.0000m
+Input tidak valid: 1149.0000x
+Input tidak valid: 350.0000z
+Input tidak valid: 2282.0000x
+1492.0000 C = 2717.6001 F
+Input tidak valid: 3198.0000p
+3836.0000 F = 2113.3333 C
+Input tidak valid: 4304.0000p
+Input tidak valid: 1436.0000y
+Input tidak valid: 2953.0000p
+Input tidak valid: 4607.0000x
+Input tidak valid: 2901.0000z
+Input tidak valid: 3892.0000p
+Input tidak valid: 764.0000p
+Input tidak valid: 1928.0000z
+1265.0000 F = 685.0000 C
+Input tidak valid: 3909.0000y
+Input tidak valid: 277.0000z
+Input tidak valid: 3653.0000m
+Input tidak valid: 4253.0000x
+74.0000 F = 23.3333 C
+Input tidak valid: 999.0000y
+2017.0000 C = 3662.6001 F
+Input tidak valid: 3760.0000p
+Input tidak valid: 1102.0000p
+Input tidak valid: 1175.0000p
+Input tidak valid: 1918.0000p
+Input tidak valid: 4803.0000x
+Input tidak valid: 4101.0000p
+Input tidak valid: 2979.0000p
+402.0000 C = 755.6000 F
+Input tidak valid: 1181.0000m
+Input tidak valid: 4380.0000m
+4327.0000 F = 2386.1111 C
+Input tidak valid: 4483.0000y
+Input tidak valid: 1388.0000z
+Input tidak valid: 1499.0000p
+Input tidak valid: 625.0000p
+Input tidak valid: 3452.0000m
+2477.0000 F = 1358.3334 C
+2517.0000 F = 1380.5555 C
+Input tidak valid: 530.0000x
+3616.0000 F = 1991.1111 C
+Input tidak valid: 539.0000x
+4285.0000 C = 7745.0000 F
+Input tidak valid: 4598.0000p
+2863.0000 F = 1572.7778 C
+Input tidak valid: 4888.0000z
+Input tidak valid: 3890.0000z
+4709.0000 C = 8508.2002 F
+25.0000 C = 77.0000 F
+Input tidak valid: 2679.0000y
+Input tidak valid: 4164.0000y
+Input tidak valid: 4612.0000m
+Input tidak valid: 3011.0000y
+1512.0000 F = 822.2222 C
+Input tidak valid: 4986.0000x
+Input tidak valid: 4825.0000m
+2384.0000 C = 4323.2002 F
+4175.0000 F = 2301.6667 C
+Input tidak valid: 204.0000p
+Input tidak valid: 3409.0000p
+115.0000 F = 46.1111 C
+Input tidak valid: 2957.0000z
+Input tidak valid: 3192.0000m
+Input tidak valid: 4256.0000m
+Input tidak valid: 2215.0000z
+Input tidak valid: 418.0000y
+Input tidak valid: 2165.0000x
+Input tidak valid: 713.0000x
+Input tidak valid: 3876.0000x
+2419.0000 F = 1326.1111 C
+Input tidak valid: 458.0000y
+1486.0000 F = 807.7778 C
+Input tidak valid: 1562.0000y
+Input tidak valid: 2572.0000y
+Input tidak valid: 4108.0000x
+2499.0000 F = 1370.5555 C
+Input tidak valid: 842.0000y
+Input tidak valid: 611.0000y
+Input tidak valid: 880.0000p
+Input tidak valid: 3475.0000x
+2450.0000 C = 4442.0000 F
+1474.0000 C = 2685.2000 F
+546.0000 C = 1014.8000 F
+2652.0000 C = 4805.6001 F
+Input tidak valid: 3557.0000y
+Input tidak valid: 301.0000p
+4003.0000 F = 2206.1111 C
+4860.0000 F = 2682.2222 C
+Input tidak valid: 3408.0000p
+Input tidak valid: 3377.0000z
+Input tidak valid: 3226.0000m
+Input tidak valid: 76.0000x
+Input tidak valid: 4907.0000m
+Input tidak valid: 452.0000x
+Input tidak valid: 3351.0000p
+32.0000 C = 89.6000 F
+Input tidak valid: 2293.0000p
+Input tidak valid: 3465.0000m
+Input tidak valid: 4585.0000y
+Input tidak valid: 633.0000m
+Input tidak valid: 2161.0000p
+Input tidak valid: 2547.0000m
+Input tidak valid: 3170.0000m
+Input tidak valid: 3650.0000z
+Input tidak valid: 2378.0000y
+1266.0000 C = 2310.8000 F
+Input tidak valid: 1525.0000m
+2543.0000 F = 1395.0000 C
+Input tidak valid: 2550.0000p
+Input tidak valid: 1930.0000p
+Input tidak valid: 4413.0000p
+Input tidak valid: 2260.0000z
+Input tidak valid: 2169.0000m
+Input tidak valid: 2933.0000y
+Input tidak valid: 612.0000p
+Input tidak valid: 1041.0000p
+Input tidak valid: 1300.0000m
+Input tidak valid: 4364.0000m
+Input tidak valid: 2593.0000x
+Input tidak valid: 4058.0000m
+3819.0000 F = 2103.8889 C
+Input tidak valid: 4370.0000z
+4320.0000 F = 2382.2222 C
+3304.0000 F = 1817.7778 C
+1638.0000 C = 2980.3999 F
+Input tidak valid: 3755.0000y
+2078.0000 C = 3772.3999 F
+Input tidak valid: 417.0000x
+Input tidak valid: 1813.0000x
+Input tidak valid: 1099.0000m
+Input tidak valid: 3402.0000y
+Input tidak valid: 1558.0000p
+Input tidak valid: 1332.0000z
+Input tidak valid: 1040.0000z
+4326.0000 F = 2385.5557 C
+4211.0000 C = 7611.7998 F
+Input tidak valid: 1145.0000p
+4759.0000 F = 2626.1111 C
+3443.0000 F = 1895.0000 C
+Input tidak valid: 782.0000z
+Input tidak valid: 4170.0000p
+Input tidak valid: 1061.0000x
+Input tidak valid: 2395.0000z
+23.0000 C = 73.4000 F
+3966.0000 F = 2185.5557 C
+Input tidak valid: 1744.0000m
+Input tidak valid: 380.0000x
+Input tidak valid: 4713.0000y
+2766.0000 C = 5010.7998 F
+Input tidak valid: 338.0000m
+Input tidak valid: 4669.0000z
+Input tidak valid: 1620.0000x
+1164.0000 F = 628.8889 C
+Input tidak valid: 1694.0000x
+Input tidak valid: 887.0000y
+Input tidak valid: 2946.0000x
+Input tidak valid: 1660.0000z
+Input tidak valid: 4315.0000x
+Input tidak valid: 665.0000x
+Input tidak valid: 2992.0000z
+Input tidak valid: 1969.0000p
+Input tidak valid: 4570.0000p
+Input tidak valid: 4164.0000y
+Input tidak valid: 938.0000m
+Input tidak valid: 3692.0000y
+Input tidak valid: 874.0000x
+Input tidak valid: 594.0000m
+1071.0000 C = 1959.8000 F
+Input tidak valid: 2063.0000m
+273.0000 C = 523.4000 F
+4428.0000 F = 2442.2222 C
+Input tidak valid: 2516.0000m
+Input tidak valid: 3488.0000m
+Input tidak valid: 3603.0000x
+2264.0000 C = 4107.2002 F
+Input tidak valid: 2035.0000x
+Input tidak valid: 4106.0000y
+Input tidak valid: 4450.0000z
+Input tidak valid: 208.0000y
+Input tidak valid: 4980.0000z
+Input tidak valid: 579.0000z
+3968.0000 F = 2186.6667 C
+1716.0000 F = 935.5555 C
+Input tidak valid: 445.0000p
+Input tidak valid: 3721.0000z
+Input tidak valid: 794.0000y
+Input tidak valid: 3123.0000p
+2499.0000 C = 4530.2002 F
+Input tidak valid: 843.0000x
+4198.0000 F = 2314.4443 C
+Input tidak valid: 4549.0000m
+4941.0000 C = 8925.7998 F
+Input tidak valid: 3974.0000z
+Input tidak valid: 2286.0000p
+510.0000 F = 265.5555 C
+Input tidak valid: 1307.0000z
+Input tidak valid: 4445.0000y
+2757.0000 C = 4994.6001 F
+Input tidak valid: 2021.0000y
+Input tidak valid: 2460.0000z
+Input tidak valid: 3162.0000p
+Input tidak valid: 4243.0000p
+Input tidak valid: 4088.0000p
+2635.0000 F = 1446.1111 C
+Input tidak valid: 4787.0000x
+Input tidak valid: 3354.0000z
+Input tidak valid: 768.0000z
+Input tidak valid: 4721.0000p
+Input tidak valid: 242.0000m
+Input tidak valid: 1544.0000m
+Input tidak valid: 4734.0000z
+Input tidak valid: 4699.0000y
+Input tidak valid: 1251.0000p
+Input tidak valid: 4746.0000z
+Input tidak valid: 2012.0000x
+3862.0000 C = 6983.6001 F
+Input tidak valid: 1305.0000m
+Input tidak valid: 1100.0000x
+3590.0000 C = 6494.0000 F
+2508.0000 F = 1375.5555 C
+Input tidak valid: 413.0000m
+Input tidak valid: 4575.0000z
+Input tidak valid: 4448.0000p
+Input tidak valid: 2414.0000z
+Input tidak valid: 385.0000x
+Input tidak valid: 3532.0000p
+Input tidak valid: 4765.0000y
+Input tidak valid: 833.0000m
+Input tidak valid: 2284.0000m
+Input tidak valid: 2476.0000y
+Input tidak valid: 2840.0000y
+1377.0000 C = 2510.6001 F
+Input tidak valid: 468.0000m
+3548.0000 F = 1953.3334 C
+1089.0000 F = 587.2222 C
+Input tidak valid: 2235.0000p
+4311.0000 F = 2377.2222 C
+Input tidak valid: 3143.0000p
+235.0000 F = 112.7778 C
+Input tidak valid: 4155.0000m
+Input tidak valid: 2178.0000x
+Input tidak valid: 728.0000x
+3029.0000 C = 5484.2002 F
+2333.0000 F = 1278.3334 C
+Input tidak valid: 1847.0000z
+Input tidak valid: 4290.0000m
+3976.0000 F = 2191.1111 C
+Input tidak valid: 3291.0000m
+Input tidak valid: 4712.0000p
+Input tidak valid: 3809.0000z
+Input tidak valid: 2547.0000z
+1699.0000 C = 3090.2000 F
+4152.0000 C = 7505.6001 F
+Input tidak valid: 3438.0000p
+1305.0000 F = 707.2222 C
+Input tidak valid: 1409.0000m
+Input tidak valid: 1078.0000z
+4400.0000 F = 2426.6667 C
+Input tidak valid: 3499.0000m
+Input tidak valid: 23.0000z
+Input tidak valid: 3315.0000p
+636.0000 C = 1176.8000 F
+Input tidak valid: 517.0000p
+1200.0000 F = 648.8889 C
+Input tidak valid: 161.0000p
+Input tidak valid: 3600.0000y
+Input tidak valid: 1430.0000p
+1869.0000 C = 3396.2000 F
+4834.0000 F = 2667.7778 C
+Input tidak valid: 38.0000m
+1180.0000 C = 2156.0000 F
+Input tidak valid: 2532.0000p
+2990.0000 F = 1643.3334 C
+Input tidak valid: 2525.0000z
+218.0000 F = 103.3333 C
+Input tidak valid: 736.0000x
+Input tidak valid: 4605.0000m
+Input tidak valid: 4037.0000z
+Input tidak valid: 273.0000x
+Input tidak valid: 1138.0000y
+3612.0000 F = 1988.8889 C
+747.0000 C = 1376.6000 F
+4987.0000 C = 9008.5996 F
+Input tidak valid: 3759.0000z
+Input tidak valid: 54.0000y
+Input tidak valid: 393.0000y
+Input tidak valid: 4561.0000z
+Input tidak valid: 4308.0000z
+3970.0000 F = 2187.7778 C
+Input tidak valid: 2133.0000p
+Input tidak valid: 3727.0000y
+3228.0000 C = 5842.3999 F
+Input tidak valid: 996.0000y
+Input tidak valid: 1448.0000p
+Input tidak valid: 1470.0000y
+Input tidak valid: 4722.0000z
+Input tidak valid: 2291.0000x
+3548.0000 C = 6418.3999 F
+Input tidak valid: 2032.0000x
+2195.0000 F = 1201.6666 C
+Input tidak valid: 2265.0000x
+Input tidak valid: 3524.0000p
+Input tidak valid: 3529.0000y
+1331.0000 C = 2427.8000 F
+Input tidak valid: 2851.0000x
+Input tidak valid: 661.0000m
+2809.0000 C = 5088.2002 F
+Input tidak valid: 4323.0000y
+Input tidak valid: 3322.0000p
+Input tidak valid: 2317.0000x
+4680.0000 F = 2582.2222 C
+Input tidak valid: 3505.0000z
+Input tidak valid: 1299.0000m
+3410.0000 C = 6170.0000 F
+Input tidak valid: 1403.0000p
+4871.0000 F = 2688.3333 C
+Input tidak valid: 2064.0000x
+Input tidak valid: 4534.0000y
+Input tidak valid: 3992.0000z
+Input tidak valid: 1103.0000p
+Input tidak valid: 244.0000m
+165.0000 C = 329.0000 F
+Input tidak valid: 3883.0000y
+3758.0000 F = 2070.0000 C
+Input tidak valid: 3050.0000z
+Input tidak valid: 1570.0000m
+Input tidak valid: 350.0000m
+Input tidak valid: 947.0000z
+Input tidak valid: 3947.0000z
+1238.0000 F = 670.0000 C
+Input tidak valid: 774.0000x
+Input tidak valid: 4594.0000m
+3746.0000 F = 2063.3333 C
+Input tidak valid: 352.0000y
+Input tidak valid: 4894.0000y
+1895.0000 F = 1035.0000 C
+2267.0000 C = 4112.6001 F
+Input tidak valid: 1663.0000x
+Input tidak valid: 3267.0000p
+Input tidak valid: 1786.0000y
+Input tidak valid: 3346.0000z
+1167.0000 C = 2132.6001 F
+Input tidak valid: 2537.0000y
+Input tidak valid: 3198.0000x
+Input tidak valid: 4680.0000y
+3407.0000 F = 1875.0000 C
+Input tidak valid: 3809.0000m
+Input tidak valid: 4649.0000z
+Input tidak valid: 1161.0000m
+Input tidak valid: 4266.0000z
+Input tidak valid: 595.0000x
+Input tidak valid: 1542.0000m
+Input tidak valid: 3289.0000y
+Input tidak valid: 3371.0000p
+Input tidak valid: 1934.0000p
+Input tidak valid: 4270.0000z
+Input tidak valid: 2825.0000p
+3693.0000 F = 2033.8889 C
+Input tidak valid: 3234.0000p
+3114.0000 F = 1712.2222 C
+Input tidak valid: 988.0000z
+4122.0000 C = 7451.6001 F
+1407.0000 F = 763.8889 C
+Input tidak valid: 4210.0000m
+1775.0000 C = 3227.0000 F
+Input tidak valid: 391.0000z
+Input tidak valid: 1573.0000m
+Input tidak valid: 1003.0000x
+2045.0000 F = 1118.3334 C
+412.0000 C = 773.6000 F
+361.0000 C = 681.8000 F
+2659.0000 C = 4818.2002 F
+Input tidak valid: 4298.0000p
+Input tidak valid: 2167.0000x
+528.0000 F = 275.5555 C
+Input tidak valid: 4373.0000x
+921.0000 F = 493.8889 C
+Input tidak valid: 3524.0000x
+Input tidak valid: 3280.0000z
+Input tidak valid: 1941.0000p
+Input tidak valid: 4362.0000p
+4684.0000 F = 2584.4443 C
+Input tidak valid: 3644.0000m
+Input tidak valid: 4831.0000m
+Input tidak valid: 1465.0000z
+Input tidak valid: 3868.0000y
+Input tidak valid: 271.0000x
+Input tidak valid: 2244.0000m
+Input tidak valid: 3874.0000z
+779.0000 F = 415.0000 C
+3494.0000 C = 6321.2002 F
+3515.0000 F = 1935.0000 C
+1773.0000 F = 967.2222 C
+380.0000 C = 716.0000 F
+Input tidak valid: 1202.0000z
+Input tidak valid: 1061.0000x
+Input tidak valid: 4431.0000z
+Input tidak valid: 544.0000x
+1068.0000 C = 1954.4000 F
+Input tidak valid: 4910.0000y
+Input tidak valid: 4611.0000y
+Input tidak valid: 4870.0000y
+Input tidak valid: 275.0000m
+3682.0000 F = 2027.7778 C
+Input tidak valid: 4135.0000y
+1627.0000 C = 2960.6001 F
+554.0000 F = 290.0000 C
+912.0000 F = 488.8889 C
+Input tidak valid: 248.0000z
+Input tidak valid: 2677.0000y
+Input tidak valid: 2353.0000x
+Input tidak valid: 3770.0000x
+Input tidak valid: 605.0000z
+4169.0000 F = 2298.3333 C
+Input tidak valid: 1674.0000z
+Input tidak valid: 2884.0000z
+Input tidak valid: 445.0000z
+Input tidak valid: 1550.0000p
+Input tidak valid: 1544.0000y
+Input tidak valid: 2236.0000y
+4186.0000 C = 7566.7998 F
+4660.0000 C = 8420.0000 F
+1678.0000 F = 914.4445 C
+Input tidak valid: 405.0000y
+Input tidak valid: 1488.0000m
+3109.0000 F = 1709.4445 C
+Input tidak valid: 2620.0000z
+3215.0000 C = 5819.0000 F
+1280.0000 C = 2336.0000 F
+Input tidak valid: 1293.0000y
+Input tidak valid: 3090.0000p
+Input tidak valid: 1969.0000p
+Input tidak valid: 2880.0000p
+Input tidak valid: 2569.0000p
+Input tidak valid: 3255.0000y
+3188.0000 C = 5770.3999 F
+Input tidak valid: 236.0000m
+2114.0000 C = 3837.2000 F
+4420.0000 C = 7988.0000 F
+Input tidak valid: 774.0000x
+Input tidak valid: 3062.0000y
+811.0000 C = 1491.8000 F
+Input tidak valid: 2009.0000y
+Input tidak valid: 2553.0000z
+557.0000 C = 1034.6000 F
+Input tidak valid: 995.0000z
+Input tidak valid: 1088.0000z
+Input tidak valid: 1025.0000y
+Input tidak valid: 2524.0000y
+4411.0000 F = 2432.7778 C
+Input tidak valid: 3297.0000p
+1071.0000 F = 577.2222 C
+Input tidak valid: 1688.0000y
+Input tidak valid: 3492.0000z
+Input tidak valid: 3848.0000y
+2394.0000 F = 1312.2222 C
+Input tidak valid: 548.0000z
+Input tidak valid: 2138.0000z
+Input tidak valid: 4518.0000y
+Input tidak valid: 4023.0000z
+Input tidak valid: 4928.0000x
+2212.0000 C = 4013.6001 F
+Input tidak valid: 1578.0000x
+3859.0000 C = 6978.2002 F
+Input tidak valid: 458.0000m
+Input tidak valid: 4826.0000m
+Input tidak valid: 691.0000x
+4529.0000 F = 2498.3333 C
+Input tidak valid: 3572.0000y
+Input tidak valid: 229.0000y
+Input tidak valid: 3420.0000y
+Input tidak valid: 3040.0000x
+Input tidak valid: 1604.0000y
+Input tidak valid: 2626.0000m
+1646.0000 C = 2994.8000 F
+Input tidak valid: 2917.0000p
+Input tidak valid: 897.0000y
+Input tidak valid: 2593.0000m
+4341.0000 C = 7845.7998 F
+Input tidak valid: 1644.0000p
+Input tidak valid: 3891.0000x
+Input tidak valid: 1067.0000x
+Input tidak valid: 719.0000p
+Input tidak valid: 1822.0000m
+3592.0000 C = 6497.6001 F
+Input tidak valid: 3985.0000y
+899.0000 C = 1650.2000 F
+816.0000 C = 1500.8000 F
+Input tidak valid: 3463.0000m
+3212.0000 C = 5813.6001 F
+Input tidak valid: 1595.0000x
+Input tidak valid: 4565.0000m
+Input tidak valid: 3927.0000p
+Input tidak valid: 2480.0000z
+Input tidak valid: 2960.0000y
+Input tidak valid: 3244.0000x
+Input tidak valid: 3897.0000m
+Input tidak valid: 3767.0000x
+Input tidak valid: 1134.0000m
+Input tidak valid: 2442.0000p
+2079.0000 F = 1137.2222 C
+Input tidak valid: 1573.0000p
+4808.0000 C = 8686.4004 F
+771.0000 F = 410.5555 C
+Input tidak valid: 3285.0000z
+Input tidak valid: 3736.0000m
+Input tidak valid: 2622.0000y
+Input tidak valid: 1797.0000x
+Input tidak valid: 558.0000y
+4303.0000 F = 2372.7778 C
+Input tidak valid: 4619.0000p
+Input tidak valid: 4244.0000p
+4276.0000 F = 2357.7778 C
+Input tidak valid: 535.0000y
+475.0000 C = 887.0000 F
+Input tidak valid: 4208.0000p
+Input tidak valid: 2141.0000y
+Input tidak valid: 1165.0000m
+Input tidak valid: 3472.0000z
+Input tidak valid: 2171.0000m
+Input tidak valid: 1655.0000z
+Input tidak valid: 1294.0000m
+Input tidak valid: 1182.0000y
+Input tidak valid: 4920.0000x
+Input tidak valid: 3109.0000m
